@@ -1,4 +1,4 @@
-# Image Processing Assignment
+# EG-2020-3845-Take-Home-Assignment-01
 
 This project contains Python programs to perform basic image processing tasks:
 
